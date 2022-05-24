@@ -93,7 +93,7 @@
     <!-- Left navbar links -->
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+        <a class="nav-link" data-widget="pushmenu" href="#" role="button"><em class="fas fa-bars"></em></a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
         <a href="#" class="nav-link">Home</a>
@@ -107,19 +107,18 @@
       <!-- Navbar Search -->
       <li class="nav-item">
         <a class="nav-link" data-widget="navbar-search" href="#" role="button">
-          <i class="fas fa-search"></i>
+          <em class="fas fa-search"></em>
         </a>
         <div class="navbar-search-block">
           <form class="form-inline">
             <div class="input-group input-group-sm">
-              <!-- <input class="form-control form-control-navbar filter" placeholder="Search" aria-label="Search"> -->
-              <input class="form-control form-control-navbar filter" id="searchbar" onkeyup="search_animal()" type="text" name="search" placeholder="Employer  search..">
+              <emnput class="form-control form-control-navbar filter" id="searchbar" onkeyup="search_animal()" type="text" name="search" placeholder="Employer  search..">
               <div class="input-group-append">
                 <button class="btn btn-navbar" type="submit">
-                  <i class="fas fa-search"></i>
+                  <em class="fas fa-search"></em>
                 </button>
                 <button class="btn btn-navbar" type="button" data-widget="navbar-search">
-                  <i class="fas fa-times"></i>
+                  <em class="fas fa-times"></em>
                 </button>
               </div>
             </div>
@@ -129,18 +128,18 @@
       <!-- Messages Dropdown Menu -->
       <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#">
-          <i class="far fa-comments"></i>
+          <em class="far fa-comments"></em>
         </a>
       </li>
       <!-- Notifications Dropdown Menu -->
       <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#">
-          <i class="far fa-bell"></i>  
+          <em class="far fa-bell"></em>  
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-widget="fullscreen" href="#" role="button">
-          <i class="fas fa-expand-arrows-alt"></i>
+          <em class="fas fa-expand-arrows-alt"></em>
         </a>
       </li>  
     </ul>
@@ -150,7 +149,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="#" class="brand-link">
-      <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <emmg src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
       <span class="brand-text font-weight-light">Admin</span>
     </a>
     <div class="sidebar">
@@ -158,19 +157,19 @@
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-edit"></i>
+              <em class="nav-icon fas fa-edit"></em>
               <p>
                 Candidate
-                <i class="right fas fa-angle-left"></i>
+                <em class="right fas fa-angle-left"></em>
               </p>
             </a>
           </li>          
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-table"></i>
+              <em class="nav-icon fas fa-table"></em>
               <p>
                 user
-                <i class="fas fa-angle-left right"></i>
+                <em class="fas fa-angle-left right"></em>
               </p>
             </a>
           </li>  
@@ -207,15 +206,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Adam</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -225,7 +224,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -235,15 +234,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Abdrea</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -253,7 +252,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -263,15 +262,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Kumar</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -281,7 +280,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
@@ -291,15 +290,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">David</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -309,7 +308,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
@@ -337,15 +336,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Tim</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -355,7 +354,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -365,15 +364,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">carlson</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -383,7 +382,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -393,15 +392,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Sindhu</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -411,7 +410,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
@@ -421,15 +420,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Abi</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -439,7 +438,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
@@ -467,15 +466,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Gowtham</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -485,7 +484,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -495,15 +494,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Angelin</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -513,7 +512,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -523,15 +522,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Sanket</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -541,7 +540,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
@@ -551,15 +550,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Hari</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -569,7 +568,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
@@ -597,15 +596,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Leo</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -615,7 +614,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -625,15 +624,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Jabir</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -643,7 +642,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                        <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                        <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                        </div>
                       <!-- /.card-body -->
                     </div>
@@ -653,15 +652,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Sujo</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -671,7 +670,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
@@ -681,15 +680,15 @@
               <li>
                 <div class="row">
                   <div class="col-md-2"><span class="handle">
-                    <i class="fas fa-ellipsis-v"></i>
-                    <i class="fas fa-ellipsis-v"></i>
+                    <em class="fas fa-ellipsis-v"></em>
+                    <em class="fas fa-ellipsis-v"></em>
                   </span></div>
                   <div class="col-md-10">
                     <div class="card card-danger">
                       <div class="card-header">
                         <h3 class="card-title">Mark</h3>
                         <div class="card-tools">
-                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                          <button type="button" class="btn btn-tool" data-card-widget="collapse"><em class="fas fa-minus"></em>
                           </button>
                         </div>
                         <!-- /.card-tools -->
@@ -699,7 +698,7 @@
                       Contrary to popular belief, Lorem Ipsum is not simply random text.
                       </div>
                       <div class="card-footer text-muted">
-                       <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+                       <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em> <em class="far fa-star"></em>
                       </div>
                       <!-- /.card-body -->
                     </div>
